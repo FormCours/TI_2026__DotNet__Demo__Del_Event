@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Demo_delegate/Demo_delegate.csproj" />
+  <Project Path="Demo_event/Demo_event.csproj" />
+</Solution>
